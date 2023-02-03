@@ -59,5 +59,4 @@ class MovieProvider extends React.Component {
   }
 }
 
-
 export default MovieProvider;
